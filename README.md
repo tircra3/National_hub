@@ -5,4 +5,4 @@
 執行model_ui.py <br>
 ## step3：<br>
 使用UI介面 <br>
-![image](https://github.com/tircra3/model/blob/master/model_img/UI.png)
+![image](https://github.com/tircra3/model/raw/main/model_img/UI.png)
