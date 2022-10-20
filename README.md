@@ -1,3 +1,4 @@
+![image](https://github.com/tircra3/model/raw/main/model_img/TIRClogo.png)
 # TMU模型
 ## step1：<br>
 開啟model_UI資料夾，安裝requirements.txt，安裝所需package <br>
