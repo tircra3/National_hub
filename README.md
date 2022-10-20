@@ -6,4 +6,3 @@
 ## step3：<br>
 使用UI介面 <br>
 ![image](https://github.com/tircra3/model/raw/master/model_img/UI.png)
-https://github.com/tircra3/model/tree/main/model_img
