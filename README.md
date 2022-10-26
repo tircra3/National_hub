@@ -5,7 +5,7 @@
 開啟cmd後cd至model_UI資料夾，安裝requirements.txt <br>
 pip install -r requirements.txt <br>
 ## step2：<br>
-<b> 執行model_ui_local.py <b><br>
+執行model_ui_local.py <br>
 python model_ui_local.py
 ## step3：<br>
 使用UI介面 <br>
