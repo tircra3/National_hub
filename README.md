@@ -1,7 +1,9 @@
 ![image](https://github.com/tircra3/model/raw/main/model_img/TIRClogo.png)
 # TMU模型
+## 程式環境：python3.7.13 <br>
 ## step1：<br>
 開啟model_UI資料夾，安裝requirements.txt，安裝所需package <br>
+pip install -r requirements.txt <br>
 ## step2：<br>
 執行model_ui_local.py <br>
 ## step3：<br>
