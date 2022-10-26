@@ -2,10 +2,10 @@
 # TMU模型
 ## 程式環境：python3.7.13 <br>
 ## step1：<br>
-開啟cmd後cd至model_UI資料夾，安裝requirements.txt，安裝所需package <br>
+開啟cmd後cd至model_UI資料夾，安裝requirements.txt <br>
 pip install -r requirements.txt <br>
 ## step2：<br>
-<b>執行model_ui_local.py<b> <br>
+<b> 執行model_ui_local.py <b><br>
 python model_ui_local.py
 ## step3：<br>
 使用UI介面 <br>
