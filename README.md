@@ -14,7 +14,7 @@
 ### 1. Click "Nii Package Location" <br>
 Step1:選擇您的nii檔案存放的資料夾 <br>
 格式請設定為: <br>
-(「choose this file」 / 「PTID」 / * / 「FOLDER」 / 「EXAMDATE」 / * / *.nii )) <br>
+`(「choose this file」 / 「PTID」 / * / 「FOLDER」 / 「EXAMDATE」 / * / *.nii ))` <br>
 Step2:選擇您的xlsx檔案存放位置 <br>
 Step3:等待儲存結果 <br>
 
