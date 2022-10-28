@@ -1,5 +1,5 @@
 ![image](https://github.com/tircra3/model/raw/main/model_img/TIRClogo.png)
-# TMU模型
+# TIRC Model
 ## 程式環境：python3.7.13 <br>
 ## step1：<br>
 開啟cmd後cd至model_UI資料夾，安裝`requirements.txt` <br>
