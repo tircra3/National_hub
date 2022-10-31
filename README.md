@@ -28,8 +28,9 @@ Step3:等待預測結果 <br>
 #### 選擇測試的模型: <br>
 1. ~~`BrainAge`(尚未完成) <br>
 輸入患者性別、種族與腦部MRI影像，預測結果可獲得MRI影像之大腦年齡。~~ <br>
-2. `NIFD_2ndclass` <br>
-輸入患者性別、年齡與腦部MRI影像，預測結果可獲得Frontaltemporal dementia (FTD)之次分類，可分為BV、SV、PNFA、L_SD等四類。 <br>
+2. ~~`NIFD_2ndclass` (尚未完成) <br>
+輸入患者性別、年齡與腦部MRI影像，預測結果可獲得Frontaltemporal dementia (FTD)之次分類 <br>
+可分為Behavioral variant (BV)、Semantic variant (SV)、Progressive non fluent aphasia (PNFA)等三類。 ~~<br>
 3. `ADNI&NIFD_classification` <br>
 輸入患者性別、年齡與腦部MRI影像，預測結果可獲得Alzheimer's dementia (AD)與Frontaltemporal dementia (FTD)等兩分類結果。 <br>
 4. `CN_MCI_other` <br>
