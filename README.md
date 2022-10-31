@@ -26,24 +26,24 @@ Step3:等待預測結果 <br>
 
 
 #### 選擇測試的模型: <br>
-1. BrainAge <br>
+1. `BrainAge` <br>
 預測結果可獲得MRI影像之大腦年齡。 <br>
-2. NIFD_2ndclass <br>
+2. `NIFD_2ndclass` <br>
 預測結果可獲得NIFD次分類，可分為BV、SV、PNFA、L_SD等四類。 <br>
-3. ADNI&NIFD_classification <br>
+3. `ADNI&NIFD_classification` <br>
 預測結果可獲得ADNI與NIFD等兩分類結果。 <br>
 
-4. CN_MCI_other <br>
+4. `CN_MCI_other` <br>
 預測結果可獲得CN、MCI與剩下其餘失智階段(other)等三種分類結果 <br>
 
 失智分數(CDR-SB)根據分數大小可分為六種階段如下： <br>
 ![image](https://github.com/tircra3/model/raw/main/model_img/CDR-SB.png)
 
-5. CDRSB_6class <br>
+5. `CDRSB_6class` <br>
 預測結果可獲得CDR-SB六階段分類結果 <br>
-6. CDRSB_6reg <br>
+6. `CDRSB_6reg` <br>
 預測結果可獲得CDR-SB六階段分類結果 <br>
-7. 3111class <br>
+7. `3111class` <br>
 將前三類分為一組，剩餘三類各一組，預測結果可獲得CDR-SB的四種分類結果。 <br>
-8. 2112class <br>
+8. `2112class` <br>
 將前兩類分為一組，三四類各分一組，後兩類分為一組，預測結果可獲得CDR-SB的四種分類結果。 <br>
